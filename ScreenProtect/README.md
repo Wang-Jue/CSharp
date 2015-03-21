@@ -1,2 +1,1 @@
-# CSharp
-CS files
+A screenprotect program written by Csharp.
